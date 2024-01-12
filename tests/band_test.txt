@@ -1,0 +1,4 @@
+Test Group
+Guitarist, guitar
+Vocalist, voice
+Drummer, drums

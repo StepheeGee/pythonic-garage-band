@@ -1,8 +1,8 @@
-# LAB - Class xx
+# LAB - Class 04
 
-## Project: Project Name Here
+## Project: Pythonic Garage Band
 
-### Author: Student/Group Name
+### Author: Stephanie G Johnson
 
 ### Links and Resources
 
